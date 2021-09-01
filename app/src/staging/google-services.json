@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731092150430",
+    "project_id": "drmovil-sv",
+    "storage_bucket": "drmovil-sv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731092150430:android:6e26ecdea6c7175056f38f",
+        "android_client_info": {
+          "package_name": "net.drmovil.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731092150430-4fmjt8o608khjqmb2a2bta1iih8c9m4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABEF0IHlaKhmtdq7kqnBSJNkwzOTIw_q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731092150430-4fmjt8o608khjqmb2a2bta1iih8c9m4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
